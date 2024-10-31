@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.activeIconPack": "react_redux",
+    "material-icon-theme.languages.associations": {
+
+    },
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        "*.js": "javascriptreact"
+    },
+    "editor.formatOnSave": true
+}
